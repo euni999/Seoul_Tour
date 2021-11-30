@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Middle</string>
+    <string name="tour">여행지</string>
+    <string name="food">맛집</string>
+    <string name="hotel">호텔</string>
+</resources>
